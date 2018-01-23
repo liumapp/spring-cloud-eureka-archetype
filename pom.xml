@@ -9,7 +9,7 @@
 	</parent>
 
 	<groupId>com.liumapp.demo.eureka</groupId>
-	<artifactId>spring-cloud-eureka-demo</artifactId>
+	<artifactId>spring-cloud-eureka-archetype</artifactId>
 	<version>v1.0.0</version>
 	<packaging>pom</packaging>
 
