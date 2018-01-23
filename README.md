@@ -4,10 +4,13 @@ Maven archetype for Spring Cloud Eureka
 ## how to use 
 
 * 
-    mvn archetype:create-from-project
+
+        mvn archetype:create-from-project
 
 *
-    cd target/generated-sources/archetype
+
+        cd target/generated-sources/archetype
 
 *
-    mvn install
+
+        mvn install
